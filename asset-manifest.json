@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Aadil1129/healthcare.git/static/css/main.ae12787c.css",
+    "main.js": "/Aadil1129/healthcare.git/static/js/main.6651e3ca.js",
+    "static/js/787.591c87c3.chunk.js": "/Aadil1129/healthcare.git/static/js/787.591c87c3.chunk.js",
+    "static/media/jeveline-clinic.png": "/Aadil1129/healthcare.git/static/media/jeveline-clinic.2881bfdde6d519529647.png",
+    "static/media/pbf.jpeg": "/Aadil1129/healthcare.git/static/media/pbf.bf14921abab19b71d7f2.jpeg",
+    "static/media/jeveline.jpeg": "/Aadil1129/healthcare.git/static/media/jeveline.d4ac6dc68e972177e267.jpeg",
+    "static/media/hp-background.jpeg": "/Aadil1129/healthcare.git/static/media/hp-background.bf645c7757961e8f65ac.jpeg",
+    "static/media/doctor.jpeg": "/Aadil1129/healthcare.git/static/media/doctor.0f2b5f9f003950f7168f.jpeg",
+    "static/media/labolatory.jpeg": "/Aadil1129/healthcare.git/static/media/labolatory.ed9ee20c0acf96795799.jpeg",
+    "static/media/ophtholomologi.jpeg": "/Aadil1129/healthcare.git/static/media/ophtholomologi.1dd5150b8cf1bb080a7c.jpeg",
+    "static/media/dentistry.jpeg": "/Aadil1129/healthcare.git/static/media/dentistry.4293eefa7a955be7f805.jpeg",
+    "static/media/cardiology.jpeg": "/Aadil1129/healthcare.git/static/media/cardiology.44d15caaeca2ceba165f.jpeg",
+    "static/media/pedriatics.jpeg": "/Aadil1129/healthcare.git/static/media/pedriatics.1efe2e27f1cdb7cebf6a.jpeg",
+    "static/media/radiology.jpeg": "/Aadil1129/healthcare.git/static/media/radiology.13a086fa3063167efc74.jpeg",
+    "index.html": "/Aadil1129/healthcare.git/index.html",
+    "main.ae12787c.css.map": "/Aadil1129/healthcare.git/static/css/main.ae12787c.css.map",
+    "main.6651e3ca.js.map": "/Aadil1129/healthcare.git/static/js/main.6651e3ca.js.map",
+    "787.591c87c3.chunk.js.map": "/Aadil1129/healthcare.git/static/js/787.591c87c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae12787c.css",
+    "static/js/main.6651e3ca.js"
+  ]
+}
